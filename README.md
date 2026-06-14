@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Harrisonlee0530/Harrisonlee0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Harrison Li 🇹🇼 🇨🇦
+
+Physics & Data Science @ UBC • Machine Learning • Computational Science • Kendama
+
+[![Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-8FCE00?logo=ko-fi&logoColor=white)](https://ko-fi.com/harrisonlee123456)
